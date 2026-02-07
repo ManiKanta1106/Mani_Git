@@ -12,4 +12,7 @@ class main(){
 }
 manikanta
 	age = 25
+
 os admin
+
+	linux Admin
