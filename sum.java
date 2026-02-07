@@ -2,10 +2,10 @@ class main(){
 	public static void main(String args[]){
            int a = 10;
 	   int b = 20;
-		int d = 40;
+	   int d = 40;
 	   int c = a+b;
+           int age = 25;
            int num = 45;
-           manikanta
 	   system.out.println(c);
 		s.o.p(c);
 	}
