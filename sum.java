@@ -10,3 +10,4 @@ class main(){
 	}
 }
 manikanta
+	age = 25
