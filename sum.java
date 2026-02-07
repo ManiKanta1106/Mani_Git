@@ -9,3 +9,4 @@ class main(){
 		s.o.p(c);
 	}
 }
+manikanta
