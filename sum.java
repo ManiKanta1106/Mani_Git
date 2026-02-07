@@ -4,6 +4,7 @@ class main(){
 	   int b = 20;
 		int d = 40;
 	   int c = a+b;
+		int num = 20;
 	   system.out.println(c);
 		s.o.p(c);
 	}
