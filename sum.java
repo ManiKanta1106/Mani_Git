@@ -5,5 +5,6 @@ class main(){
 	   int c = a+b;
            manikanta
 	   system.out.println(c);
+		s.o.p(c);
 	}
 }
