@@ -5,7 +5,6 @@ class main(){
 	   int d = 40;
 	   int c = a+b;
            int age = 25;
-           int num = 45;
 	   system.out.println(c);
 		s.o.p(c);
 	}
